@@ -1,0 +1,16 @@
+opencv-python==4.8.1.78
+numpy==1.26.3
+torch>=1.7.0
+torchvision>=0.8.1
+pywin32>=303; sys_platform == 'win32'
+mss>=6.1.0
+pyautogui>=0.9.53
+matplotlib>=3.3.3
+pillow>=8.0.1
+PyYAML>=5.3.1
+tqdm>=4.64.0
+pynput>=1.7.6
+psutil>=5.9.0
+pyinstaller>=5.7.0; sys_platform == 'win32'
+py-cpuinfo>=9.0.0
+PyQt5>=5.15.6
