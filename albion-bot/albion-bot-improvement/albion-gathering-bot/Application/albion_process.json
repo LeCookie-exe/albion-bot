@@ -1,0 +1,10 @@
+{
+    "process": {
+        "pid": 5616,
+        "name": "Albion-Online.exe",
+        "exe": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Albion Online\\game\\Albion-Online.exe",
+        "window_name": "Albion Online Client"
+    },
+    "capture_mode": "process",
+    "timestamp": 1743800278.0589085
+}
